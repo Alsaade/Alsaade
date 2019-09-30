@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+ }
+ #name, #password , #Email{
+ margin-top: 10px;
+ border-top: none;
+ border-right: none;
+ border-left: none;
+ padding: 5px 40px;
+ overflow: hidden;
+ outline: none;
+ color: blue;
+ }
+ #name:focus, #password:focus, #Email:focus{
+    border-bottom:1px solid blue;
+}
+ img {
+    border: 1px solid gray;
+    padding: 10px;
+    background-color:white;
+    border-radius: 6px;
+ }
+ button{
+    padding: 5px 100px;
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 6px;
+    border: none;
+ }
+ .bus{
+    color: gray;
+ }
+ .dot{
+    border-top: 1px dotted gray;
+    width: 5%;
+    margin: auto;
+ }
+ .footer{
+    color: gray;
+ }
