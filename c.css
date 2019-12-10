@@ -1,0 +1,76 @@
+
+ .header{
+     margin-right:110px;
+     margin-left: 80px;
+     padding-bottom: 30px;
+     display: inline-block;
+  }
+ button{
+    margin: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+    font-family: serif;
+    font-size: 24px;
+    color: #2d2769;
+    outline: none;
+    float: right;
+ }
+ button:hover{
+     color:white;
+     background-color: #2d2769;
+     border-radius: 5px;
+ }
+ 
+ .site-logo{
+    width: 20%;
+    margin-left: 50px;
+    float: left;;
+ }
+
+ 
+ .Home{
+     width: 80%;
+     height: 630px;
+     border: 2px solid black;
+     margin-left: 10%;
+     margin-right: 10%;
+     background-color: white;
+     overflow: hidden;
+     
+ }
+.Home img{
+    width: 100%;
+    height: 100%;
+ }
+ .About{
+    width: 80%;
+    height: 650px;
+    border: 2px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+
+ }
+
+ .Programs{
+    width: 80%;
+    height: 650px;
+    border: 2px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #eeeeee;
+
+ }
+
+ .Locations{
+    width: 80%;
+    height: 650px;
+    border: 2px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+ }
+ .grop div{
+     margin-top: 20px;
+ }
