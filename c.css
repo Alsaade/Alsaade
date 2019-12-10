@@ -5,7 +5,7 @@
      padding-bottom: 30px;
      display: inline-block;
   }
- button{
+ a{
     margin: 10px;
     background-color: white;
     border: none;
@@ -16,13 +16,16 @@
     color: #2d2769;
     outline: none;
     float: right;
+    text-decoration: none;
  }
- button:hover{
+ a:hover{
      color:white;
      background-color: #2d2769;
      border-radius: 5px;
  }
- 
+ header button a{
+   text-decoration: none;
+ }
  .site-logo{
     width: 20%;
     margin-left: 50px;
