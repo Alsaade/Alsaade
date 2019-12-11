@@ -1,10 +1,127 @@
+.header{
+   margin-left: 90px;
+   padding-bottom: 30px;
+   display: inline-block;
+   background-color: transparent;
+   z-index: 5;
+   position: fixed;
+   background-color: #fff;
+   margin-top: -9px;
+}
+.site-logo{
+    width: 20%;
+    float: left;
+    display: block;
+    float: left;
+    margin-top: 20px;
 
+}
+.fix{
+   margin-top: 30px;
+   float: left;
+
+  }
+  .fix a{
+   margin-right: -35px;
+   margin-left: 90px;
+  }
+  a{
+    background-color: white;
+   border: none;
+   border-radius: 2px;
+   padding: 5px;
+   font-family: serif;
+   font-size: 24px;
+   color: #2d2769;
+   outline: none;
+   float: right;
+   text-decoration: none;
+}
+
+a:hover{
+    color:white;
+    background-color: #2d2769;
+    border-radius: 5px;
+}
+  .grop{
+     margin-top:  200px;
+     position: absolute;
+     width: 100%;
+
+  }
+  
+.About{
+   width: 80%;
+   height: 650px;
+   border: 2px solid black;
+   margin-left: 10%;
+   margin-right: 10%;
+   background-color: white;
+
+}
+.Home{
+   width: 80%;
+   height: 600px;
+   border: 2px solid black;
+   margin-left: 10%;
+   margin-right: 10%;
+   background-color: white;
+   overflow: hidden;
+   position: relative;
+}
+
+.Programs{
+   width: 80%;
+   height: 650px;
+   border: 2px solid black;
+   margin-left: 10%;
+   margin-right: 10%;
+   background-color: #eeeeee;
+
+}
+
+.Locations{
+   width: 80%;
+   height: 650px;
+   border: 2px solid black;
+   margin-left: 10%;
+   margin-right: 10%;
+}
+.Locations{
+   width: 80%;
+   height: 650px;
+   border: 2px solid black;
+   margin-left: 10%;
+   margin-right: 10%;
+}
+
+.Department{
+   text-align: center;
+    font-size: 36px;
+    color:#fff !important;
+    padding: 30px 0!important;
+    margin: 0!important;
+    background-color:#2d2769 ;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
  .header{
-     margin-right:110px;
-     margin-left: 80px;
-     padding-bottom: 30px;
-     display: inline-block;
-     
+    
   }
   .fix{
    position: fixed;
@@ -88,8 +205,8 @@
 .Department{
    text-align: center;
     font-size: 36px;
-    color: #fff!important;
+    color: #2d2769!important;
     padding: 30px 0!important;
     margin: 0!important;
-    background-color:#2d2769 ;
-}
+    background-color:#fff ;
+} */
